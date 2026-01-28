@@ -14,7 +14,7 @@ My approach to Information Security is built on three pillars of discipline:
 
 ---
 
-### 🚀 Current Mission: The 2026 "Truth Lab"
+### 🚀 Current Mission: The Technical Bridge (2026)
 I am currently executing a methodical technical sprint to strengthen the "Practical Gap" between certification and operations.
 
 * **🔭 Active Lab Focus:** Deploying a **Splunk SIEM** environment and **Nessus** vulnerability management protocols.
