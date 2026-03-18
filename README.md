@@ -14,12 +14,14 @@ My approach to Information Security is built on three pillars of discipline:
 
 ---
 
-### 🚀 Current Mission: The Technical Bridge (2026)
-I am currently executing a methodical technical sprint to strengthen the "Practical Gap" between certification and operations.
+### 🚀 Current Professional Sprint (March – April 2026)
+I am currently balancing a dual-track operational sprint, maintaining technical fluency while fulfilling elite performance obligations.
 
-* **🔭 Active Lab Focus:** Deploying a **Splunk SIEM** environment and **Nessus** vulnerability management protocols.
-* **🐍 Python Maintenance:** Refining foundational logic to develop functional security utilities.
-* **🎯 Career Goal:** Securing a role within a high-tier Cybersecurity Academy or Boutique (SOC/Offensive).
+* **🎭 Operational Resilience:** Relocating to London for a high-intensity rehearsal and performance block with **Diva Opera** (*La Bohème*).
+* **⚖️ GRC & Data Integrity Project:** Managing a real-world digital transformation for a property portfolio.
+    * Implementing a cloud-based GRC framework (**Landlord Studio**) to ensure compliance with **UK Making Tax Digital (MTD)** regulations.
+    * **Focus:** Data migration from legacy systems, securing multi-signatory financial feeds, and automating regulatory reporting.
+* **🔭 Upcoming Technical Bridge (May 2026):** Methodical lab deployment of **Splunk SIEM** and **Nessus** vulnerability management protocols.
 
 ---
 
