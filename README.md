@@ -14,14 +14,13 @@ My approach to Information Security is built on three pillars of discipline:
 
 ---
 
-### 🚀 Current Professional Sprint (March – April 2026)
+### 🚀 Current Professional Sprint (May 2026)
 I am currently balancing a dual-track operational sprint, maintaining technical fluency while fulfilling elite performance obligations.
 
-* **🎭 Operational Resilience:** Relocating to London for a high-intensity rehearsal and performance block with **Diva Opera** (*La Bohème*).
-* **⚖️ GRC & Data Integrity Project:** Managing a real-world digital transformation for a property portfolio.
-    * Implementing a cloud-based GRC framework (**Landlord Studio**) to ensure compliance with **UK Making Tax Digital (MTD)** regulations.
-    * **Focus:** Data migration from legacy systems, securing multi-signatory financial feeds, and automating regulatory reporting.
-* **🔭 Upcoming Technical Bridge (May 2026):** Methodical lab deployment of **Splunk SIEM** and **Nessus** vulnerability management protocols.
+* **🎭 Operational Resilience:** Successfully concluded the London-based **Diva Opera** rehearsal block; now operating from Ripon between performance and extra rehearsal dates.
+* **⚖️ GRC & Data Integrity Project:** Completed the digital transformation and UK MTD compliance framework implementation for a property portfolio (April 2026).
+* **🏛️ Active Technical Bridge:** Deploying a unified Cyber Range to demonstrate proficiency in Splunk SIEM, Nessus vulnerability management, and Metasploit exploitation lifecycles.
+* **🔭 Upcoming: Heavy Performance Cycle, Home Setup Hardening + Mobile Setup Creation (June-August 2026):** An intensive, operatic summer schedule of international performances. Balancing my professional operatic commitments with implementing learned setups/techniques/hardware for my home cyber setup along with a mobile cyber setup for when away on location.
 
 ---
 
